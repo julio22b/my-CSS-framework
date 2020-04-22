@@ -1,0 +1,31 @@
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+}
+
+.sticky-bot {
+    position: sticky;
+    bottom: 0;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+}
+
+.fixed-bot {
+    position: fixed;
+    bottom: 0;
+}
+
+.static {
+    position: static;
+}

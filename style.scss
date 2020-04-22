@@ -1,0 +1,19 @@
+@import './partials/variables';
+@import './partials/reset';
+@import './partials/typography';
+@import './partials/flex';
+@import './partials/position';
+@import './partials/navbar';
+@import './partials/sizing';
+@import './partials/spacing';
+@import './partials/columns';
+
+.container {
+    max-width: 96%;
+}
+
+.row {
+    min-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,16 @@
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list-item {
+    padding: 0 0.6em;
+}
+
+.nav-list-link {
+    text-decoration: none;
+    font-weight: bold;
+    &:hover {
+        color: $primary-color;
+    }
+}

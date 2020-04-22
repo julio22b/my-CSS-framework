@@ -34,11 +34,6 @@
     font-weight: bold;
 }
 
-p {
-    letter-spacing: 1px;
-    margin: 5px 0 10px 0;
-}
-
 .text-primary {
     color: $primary-color;
 }
@@ -61,4 +56,12 @@ p {
 
 .text-left {
     text-align: left;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-normal {
+    font-weight: normal;
 }
